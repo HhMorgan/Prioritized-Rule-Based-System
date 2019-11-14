@@ -1,0 +1,3 @@
+a,b\c<=>member(a,[1,2])|c,d pragma 4
+a,b,d<=>member(a,[1,2])|c,e pragma 7
+e==>member(a,[1,2])|c,d pragma 4
